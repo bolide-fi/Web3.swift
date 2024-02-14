@@ -7,7 +7,7 @@
 
 import Foundation
 #if !Web3CocoaPods
-    import Web3
+    import Web3Swift
 #endif
 
 /// A class that can accept invocations and forward to Web3

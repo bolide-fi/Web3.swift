@@ -9,7 +9,7 @@
 import Quick
 import Nimble
 import BigInt
-@testable import Web3
+@testable import Web3Swift
 
 class RLPItemTests: QuickSpec {
 

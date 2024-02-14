@@ -109,7 +109,7 @@ your target dependencies (and later import them) if you want to use them.
 After the installation you can import `Web3` in your `.swift` files.
 
 ```Swift
-import Web3
+import Web3Swift
 
 // Optional
 import Web3PromiseKit
@@ -174,7 +174,7 @@ under the `eth` struct in the `web3` struct.
 
 __*Please see the examples below*__
 
-> Note: For the examples to work you need to import Web3 and PromiseKit first
+> Note: For the examples to work you need to import Web3Swift and PromiseKit first
 
 #### Request web3_clientVersion
 

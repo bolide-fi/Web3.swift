@@ -8,7 +8,7 @@
 import Foundation
 import BigInt
 #if !Web3CocoaPods
-    import Web3
+    import Web3Swift
 #endif
 
 /// Struct representing the combination of a SolidityType and a native value

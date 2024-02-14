@@ -7,7 +7,7 @@
 
 import Foundation
 #if !Web3CocoaPods
-    import Web3
+    import Web3Swift
 #endif
 
 /// Base protocol all contracts should adopt.
